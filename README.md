@@ -30,4 +30,15 @@ Original model:
 
 ![image](https://github.com/qande003/deep-learning-challenge/assets/95590929/d24c881d-db57-4210-8c3c-47a43286e45f)
 
+Optimized model:
+
+![image](https://github.com/qande003/deep-learning-challenge/assets/95590929/4e3be2f3-08b6-41a3-9c3f-b58fe7ab72d6)
+
+## I was not able to accomplish and accuracy rate of at least 75% but I did use the following optimization techniques in my attempts:
+
+*Use different activation functions for the hidden layers
+*Dropping more or fewer columns
+*Add or reduce the number of epochs to the training regimen
+
+
 
