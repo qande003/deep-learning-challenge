@@ -36,9 +36,11 @@ Optimized model:
 
 ## I was not able to accomplish and accuracy rate of at least 75% but I did use the following optimization techniques in my attempts:
 
-*Use different activation functions for the hidden layers
-*Dropping more or fewer columns
-*Add or reduce the number of epochs to the training regimen
+* Use different activation functions for the hidden layers
+
+* Dropping more or fewer columns
+
+* Add or reduce the number of epochs to the training regimen
 
 
 
